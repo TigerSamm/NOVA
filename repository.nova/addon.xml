@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<addon id="repository.nova" name="[B]NOVA Repository[/B]" version="1.0" provider-name="Pangea">
+	<extension point="xbmc.addon.repository" name="NOVA Repository">
+		<info compressed="true">https://raw.githubusercontent.com/TigerSamm/NOVA/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/TigerSamm/NOVA/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/TigerSamm/NOVArepo</datadir>
+	</extension>
+	  <extension point="xbmc.addon.metadata">
+		<summary lang="en">NOVA Repository</summary>
+		<description lang="en">Repository containing all NOVA addons in order to create an ultimate, streamlined and fast Kodi experience.</description>
+		<platform>all</platform>
+		<forum></forum>
+		<website>http://sites.google.com/view/pangeatechs</website>
+	  </extension>
+</addon>
