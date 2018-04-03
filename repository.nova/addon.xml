@@ -4,7 +4,7 @@
 	<extension point="xbmc.addon.repository" name="NOVA Repository">
 		<info compressed="true">https://raw.githubusercontent.com/TigerSamm/NOVA/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/TigerSamm/NOVA/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/TigerSamm/NOVArepo</datadir>
+		<datadir zip="true">https://raw.githubusercontent.com/TigerSamm/NOVA/master/</datadir>
 	</extension>
 	  <extension point="xbmc.addon.metadata">
 		<summary lang="en">NOVA Repository</summary>
