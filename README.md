@@ -1,2 +1,0 @@
-# NOVA
-NOVA Addons Repository
